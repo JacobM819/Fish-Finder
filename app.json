@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "js_cpp_test",
+    "slug": "js_cpp_test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
